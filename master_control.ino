@@ -1,4 +1,4 @@
-// Master Arduino Control System
+// Master Arduino Control System by Abhishek
 // Combines: LCD I2C, TM1637 Display, Ultrasonic Sensor, Buzzer, Built-in LED
 // 
 // Connections:
